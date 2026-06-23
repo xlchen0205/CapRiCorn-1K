@@ -1,7 +1,7 @@
 # <img src="assets/capricorn.png" alt="Capricorn icon" width="32px" height="32px" style="position: relative; top: 4px;"> CapRiCorn-1K: A Comprehensive Benchmark for Video Captioning and Subject Referential Consistency Across Temporal Scales
 
 <p align="left">
-  <a href="https://arxiv.org/abs/2606.todo"><img src="https://img.shields.io/badge/arXiv-2606.todo-red"></a>
+  <a href="https://arxiv.org/abs/2606.21949"><img src="https://img.shields.io/badge/arXiv-2606.21949-red"></a>
   <a href="https://huggingface.co/datasets/XinlongChen/CapRiCorn-1K"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20HF&message=CapRiCorn-1K&color=yellow"></a>
 </p>
 
