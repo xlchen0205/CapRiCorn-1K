@@ -136,5 +136,10 @@ The output directory will contain intermediate judgements and final metric files
 If you find CapRiCorn-1K helpful for your research, please consider giving this repo a star ⭐ and citing our paper. We appreciate your support!
 
 ```bibtex
-TODO
+@article{chen2026capricorn,
+  title={CapRiCorn-1K: A Comprehensive Benchmark for Video Captioning and Subject Referential Consistency Across Temporal Scales},
+  author={Chen, Xinlong and Tang, Jiafu and Ding, Yue and Jia, Yizhuo and Li, Bozhou and Zeng, Bohan and Shi, Yang and Li, Shihao and Ji, Yiyan and Liu, Qiang and others},
+  journal={arXiv preprint arXiv:2606.21949},
+  year={2026}
+}
 ```
